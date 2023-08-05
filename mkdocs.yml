@@ -1,6 +1,7 @@
 site_name: Unraveling Frappe
 theme:
   name: material
+  favicon: images/favicon.png
   features:
     - navigation.tabs
     - navigation.sections
